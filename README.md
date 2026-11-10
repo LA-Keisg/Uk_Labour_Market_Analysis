@@ -2,7 +2,7 @@
 ### Project Overview
 An analysis of the UK labour market trends using data from the Office for National Statistics (ONS)
 
-The project explores employment and unemployment across age groups, workforce jobs and vacancies by industry and an exploration of the relationship between unemployed people and vacancies. 
+The project explores employment and unemployment across age groups, workforce jobs and vacancies by industry and an exploration of the relationship between job vacancies and unemployment.
 
 ### Tools Used
 
