@@ -1,0 +1,1 @@
+All data files came from the Office for National Statistics(ONS). The data comes from the A01 "Summary of labour market statistics" under this link: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketdata
