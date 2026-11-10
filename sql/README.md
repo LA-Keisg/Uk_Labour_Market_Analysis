@@ -1,3 +1,4 @@
+## Queries
 01_data cleaning.sql - Includes all the CREATE and REPLACE TABLE statements to create the final cleaned dataset.
 
 02_research_questions.sql - Covers the main analysis and exploration within the project; it is in a more formal format, created to give me a better understanding of the data and to answer some questions of which I was curious. 
